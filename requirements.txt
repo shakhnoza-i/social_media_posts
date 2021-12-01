@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib
+bcrypt
+python-multipart # for endpoint required files
+python-jose # for authentication
+aiofiles #  make files static
+requests
+pytest
+jinja2
+websockets
