@@ -3,6 +3,7 @@
     Python
     FastAPI
     Sqlalchemy
+    Uvicorn (server)
 
     Описание:
     Создание публикаций с изображением и описанием - подобно Facebook, Instagram и т.д.
