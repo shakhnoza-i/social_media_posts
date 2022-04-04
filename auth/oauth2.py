@@ -9,7 +9,7 @@ from db import db_user
  
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="login")
  
-SECRET_KEY = '295e95396ad65ea67b6b158ac3543ebca01950859058df1c8d13392e4d1c8696'
+SECRET_KEY = 'Insert here own generated secret key'
 ALGORITHM = 'HS256'
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
  
